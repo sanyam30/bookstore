@@ -1,4 +1,3 @@
-#bookstore
 GUI based application
 
 
