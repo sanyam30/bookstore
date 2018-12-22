@@ -1,4 +1,4 @@
-# bookstore
+#Simple GUI application
 
 GUI based application
 
